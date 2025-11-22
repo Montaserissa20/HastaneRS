@@ -27,3 +27,7 @@ Uses Cypress + Cucumber for testing.
    npm install
    npm run dev
    ```
+## Etik Bildirimi (Zorunlu)
+
+Bu proje, Samsun Üniversitesi Yazılım Mühendisliği Bölümü **"Yazılım Gerçekleşme ve Test"** dersi kapsamında  
+**Nurettin Şenyer** ve **Ömer Durmuş** rehberliğinde yapılmıştır.
